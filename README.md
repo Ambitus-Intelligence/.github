@@ -43,8 +43,6 @@ We’re two students building this during nights/weekends! Expect iterative prog
 ## 📬 Contact
 General Inquiries: v010010001@gmail.com
 
-Technical Discussions: GitHub Issues
-
 ---
 
 ## 🗺️ Roadmap
