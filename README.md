@@ -54,5 +54,6 @@ Q2 2025: Prototype `ambitus-frontend` dashboard.
 
 --- 
 
-Open Source • Student-Built • Iterative Progress
-“Automating insights, one agent at a time.”
+**Open Source • Student-Built • Iterative Progress**
+
+_“Automating insights, one agent at a time.”_
