@@ -36,6 +36,8 @@ Ambitus Intelligence is an end-to-end platform designed to automate market resea
 
 - [Nidhi Satyapriya](https://github.com/Nidhi-Satyapriya)
 
+- [Priyanshu Paritosh](https://github.com/gamerguy27072)
+
 We’re two students building this during nights/weekends! Expect iterative progress.
 
 ---
