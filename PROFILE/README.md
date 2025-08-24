@@ -19,7 +19,7 @@ Ambitus Intelligence is an end-to-end platform designed to automate market resea
 - **Resource Curation**: Auto-collect datasets, code, and models.
 
 ---
-
+<!--
 ## 📂 Repositories
 
 | Repository                | Status       | Description                                                                 |
@@ -29,7 +29,7 @@ Ambitus Intelligence is an end-to-end platform designed to automate market resea
 | ambitus-backend           | *Planned* 🔜 | API/services layer to connect AI models with frontend (Flask/Django).      |
 
 ---
-
+-->
 ## 👥 Team
 
 - [Vedant Yadav](https://github.com/TheMimikyu)
@@ -46,14 +46,14 @@ We’re three students building this during nights/weekends! Expect iterative pr
 General Inquiries: v010010001@gmail.com
 
 ---
-
+<!--
 ## 🗺️ Roadmap
 Q1 2025: Stabilize `ambitus-ai-models` (Research Agent + Orchestrator).
 
 Q2 2025: Design `ambitus-backend` architecture.
 
 Q2 2025: Prototype `ambitus-frontend` dashboard. 
-
+-->
 --- 
 
 **Open Source • Student-Built • Iterative Progress**
